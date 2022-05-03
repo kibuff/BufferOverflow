@@ -49,3 +49,8 @@ Buffer Overflow Scripts for OSCP and https://www.tryhackme.com/room/bufferoverfl
 
 *   Notes
     *   Could not connect -> F9 to resume the debugger
+
+---
+
+## Easter-Egg
+My deploy key with the username kali@kali is associated with the git user arponsarker.
